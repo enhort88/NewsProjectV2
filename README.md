@@ -99,7 +99,8 @@ baseLayout.jsp
    cd NewsProjectV2```
 2. Соберите и запустите проект:
   ```mvn clean install
-mvn spring-boot:run```
+mvn spring-boot:run
+```
 3. Перейдите в браузере: http://localhost:8080/controller/goToBasePage
 
 **Структура проекта**
